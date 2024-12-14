@@ -2,7 +2,7 @@
 
 This is a simple Rock Paper Scissors game written in Java. The game is played in the console.
 
-It's literally just me practicing writing classes and methods in Java.
+I'm just practicing writing classes and methods in Java.
 
 ## How to play
 1. Clone the repository
